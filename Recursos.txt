@@ -1,0 +1,4 @@
+FANCY-BORDER-RADIUS :para curvas para un div- https://9elements.github.io/fancy-border-radius/#0.41.86.69--485.485 
+GETWAVES:PARA SER CURVAS : https://getwaves.io/
+GOOGLE-FONT: Para fuentes :Google Font
+ColorSpace:degradados :https://mycolor.space/ - https://cssgradient.io/ - https://www.joshwcomeau.com/gradient-generator/
